@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Birthday/static/css/main.d4e17a9c.css",
+    "main.js": "/Birthday/static/js/main.70293478.js",
+    "static/js/453.d6151450.chunk.js": "/Birthday/static/js/453.d6151450.chunk.js",
+    "static/media/s.jpg": "/Birthday/static/media/s.b23fa2d75a97a6b3beab.jpg",
+    "static/media/insects.mp3": "/Birthday/static/media/insects.2d6c902c66674abd3ad3.mp3",
+    "static/media/Swathi.jpeg": "/Birthday/static/media/Swathi.8b7b637d084ce9037b8e.jpeg",
+    "static/media/Img14.jpeg": "/Birthday/static/media/Img14.2f389eb9d0751d562225.jpeg",
+    "static/media/MyImg.jpeg": "/Birthday/static/media/MyImg.97177a6cd95bbcbf1c40.jpeg",
+    "static/media/Img13.jpeg": "/Birthday/static/media/Img13.135095f6f56581b29789.jpeg",
+    "static/media/Img6.jpeg": "/Birthday/static/media/Img6.29f95412e1cca957f529.jpeg",
+    "static/media/Img8.jpeg": "/Birthday/static/media/Img8.682fce7d6e8a2c4eca46.jpeg",
+    "static/media/Img12.jpeg": "/Birthday/static/media/Img12.21a58ab6293ce7d4e28c.jpeg",
+    "static/media/Img11.jpeg": "/Birthday/static/media/Img11.4dfc2729ffda9e58c9d6.jpeg",
+    "static/media/Img7.jpeg": "/Birthday/static/media/Img7.fd432a8b972ad3f92708.jpeg",
+    "static/media/Img5.jpeg": "/Birthday/static/media/Img5.b7183ffba6721b5a3fd7.jpeg",
+    "static/media/Img10.jpeg": "/Birthday/static/media/Img10.04bcd1c699beaf681105.jpeg",
+    "static/media/Img9.jpeg": "/Birthday/static/media/Img9.9471c04250359b07b10b.jpeg",
+    "static/media/Img3.jpeg": "/Birthday/static/media/Img3.09c914bf1a851e8ffff7.jpeg",
+    "static/media/Img2.jpeg": "/Birthday/static/media/Img2.62dca189073d582a6936.jpeg",
+    "static/media/Img4.jpeg": "/Birthday/static/media/Img4.2f83683bc6d17f3395ab.jpeg",
+    "static/media/Img1.jpeg": "/Birthday/static/media/Img1.7bae7deb01b3721309e7.jpeg",
+    "static/media/logo.svg": "/Birthday/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Birthday/index.html",
+    "main.d4e17a9c.css.map": "/Birthday/static/css/main.d4e17a9c.css.map",
+    "main.70293478.js.map": "/Birthday/static/js/main.70293478.js.map",
+    "453.d6151450.chunk.js.map": "/Birthday/static/js/453.d6151450.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4e17a9c.css",
+    "static/js/main.70293478.js"
+  ]
+}
